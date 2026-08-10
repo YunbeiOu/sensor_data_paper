@@ -1,0 +1,39 @@
+ID,Construction Age Band,Floor Description,Walls Description,Windows Description,Roof Description
+BL007-02,1950-2002,No or limited insulation,Partial insulation,Single glazed,"Pitched, 100-250mm loft insulation"
+BL007-04,2002 onwards,Other premises/dwellings below,Average thermal transmittance 0.10-0.20 W/m2K,High performance glazing,Other premises/dwellings above
+BL007-07,1950-2002,No or limited insulation,Partial insulation,Double glazed,"Pitched, 100-250mm loft insulation"
+BL007-09,1950-2002,Other premises/dwellings below,No insulation,Double glazed,"Pitched, 50-75mm loft insulation"
+BL007-13,2002 onwards,Insulated: average thermal transmittance 0.10-0.2 W/m2K,Average thermal transmittance 0.10-0.20 W/m2K,High performance glazing,Other premises/dwellings above
+BL007-15,2002 onwards,Insulated: average thermal transmittance 0.10-0.2 W/m2K,Average thermal transmittance 0.10-0.20 W/m2K,High performance glazing,Average thermal transmittance 0.1-0.2 W/m2K
+BL007-17,1900-1949,Other premises/dwellings below,No insulation,Double glazed,"Roof room(s), no insulation"
+BL007-18,2002 onwards,Insulated: average thermal transmittance 0.10-0.2 W/m2K,Average thermal transmittance 0.21-0.30 W/m2K,High performance glazing,Average thermal transmittance 0.1-0.2 W/m2K
+BL007-19,1900-1949,Other premises/dwellings below,No insulation,Single glazed,"Pitched, no insulation"
+BL007-22,2002 onwards,Other premises/dwellings below,Average thermal transmittance 0.10-0.20 W/m2K,High performance glazing,Average thermal transmittance 0.1-0.2 W/m2K
+BL007-23,2002 onwards,Other premises/dwellings below,Average thermal transmittance 0.10-0.20 W/m2K,High performance glazing,Average thermal transmittance 0.1-0.2 W/m2K
+BL007-25,1900-1949,Other premises/dwellings below,No insulation,Double glazed,Other premises/dwellings above
+BL007-31,,,,,
+BL007-32,1950-2002,Other premises/dwellings below,No insulation,Double glazed,Other premises/dwellings above
+BL007-33,1950-2002,Other premises/dwellings below,Partial insulation,Double glazed,"Pitched, 50-75mm loft insulation"
+BL007-34,2002 onwards,Insulated: average thermal transmittance 0.10-0.2 W/m2K,Average thermal transmittance 0.10-0.20 W/m2K,High performance glazing,Other premises/dwellings above
+BL007-35,1900-1949,Other premises/dwellings below,No insulation,Double glazed,Other premises/dwellings above
+BL007-36,1950-2002,No or limited insulation,"Cavity wall, filled cavity",Double glazed,"Pitched, 50-75mm loft insulation"
+BL007-39,1950-2002,Other premises/dwellings below,No insulation,Double glazed,Other premises/dwellings above
+BL007-40,,,,,
+BL007-42,,,,,
+BL007-43,2002 onwards,Insulated: average thermal transmittance 0.10-0.2 W/m2K,Average thermal transmittance 0.10-0.20 W/m2K,High performance glazing,Other premises/dwellings above
+BL007-44,1950-2002,Other premises/dwellings below,No insulation,Single glazed,Other premises/dwellings above
+BL007-45,,,,,
+BL007-46,,,,,
+BL007-47,1900-1949,Other premises/dwellings below,No insulation,Double glazed,Other premises/dwellings above
+BL007-48,2002 onwards,Other premises/dwellings below,Partial insulation,Double glazed,Other premises/dwellings above
+BL007-49,,,,,
+BL007-50,1950-2002,No or limited insulation,No insulation,Double glazed,Other premises/dwellings above
+BL007-51,1900-1949,Other premises/dwellings below,No insulation,Double glazed,"Flat, no or limited insulation"
+BL007-52,,,,,
+BL007-54,2002 onwards,Other premises/dwellings below,Average thermal transmittance 0.21-0.30 W/m2K,High performance glazing,Average thermal transmittance 0.1-0.2 W/m2K
+BL007-56,1950-2002,No or limited insulation,"Cavity wall, filled cavity",Single glazed,"Flat, no or limited insulation"
+BL007-57,,,,,
+BL007-59,2002 onwards,Other premises/dwellings below,Average thermal transmittance 0.21-0.30 W/m2K,High performance glazing,Other premises/dwellings above
+BL007-64,1900-1949,Other premises/dwellings below,No insulation,Double glazed,"Flat, no or limited insulation"
+BL007-66,before 1900,Other premises/dwellings below,No insulation,Single glazed,"Pitched, 50-75mm loft insulation"
+BL007-67,before 1900,No or limited insulation,No insulation,Double glazed,"Pitched, no insulation"

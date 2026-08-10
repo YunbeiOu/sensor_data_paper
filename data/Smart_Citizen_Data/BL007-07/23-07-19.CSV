@@ -1,0 +1,7 @@
+TIME,TEMP,HUM,BATT,LIGHT,NOISE_A,PRESS,CCS811_VOCS,CCS811_ECO2,PM_1,PM_25,PM_10
+ISO 8601,C,%,%,Lux,dBA,kPa,ppb,ppm,ug/m3,ug/m3,ug/m3
+Time,Temperature,Humidity,Battery,Light,Noise dBA,Barometric pressure,VOC Gas CCS811,eCO2 Gas CCS811,PM 1.0,PM 2.5,PM 10.0
+,55,56,10,14,53,58,113,112,89,87,88
+2023-07-19T21:33:13Z,21.99,63.71,75,0,30.68,101.13,null,null,0,0,0
+2023-07-19T21:34:13Z,22.39,61.17,78,0,39.60,101.14,null,null,null,null,null
+2023-07-19T21:35:13Z,22.70,59.22,78,8,27.64,101.14,0.00,400.00,null,null,null

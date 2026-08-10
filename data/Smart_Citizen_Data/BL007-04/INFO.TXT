@@ -1,0 +1,8 @@
+Hardware Version: 2.1
+SAM Hardware ID: 657CCAB050573651302E3120FF170A13
+SAM version: 0.9.7-1b30422
+SAM build date: 2020-06-23T16:08:01Z
+ESP MAC address: EA:DB:84:85:25:90
+ESP version: 0.9.2-a91f850
+ESP build date: 2019-08-20T13:17:16Z
+

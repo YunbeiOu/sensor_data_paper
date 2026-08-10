@@ -1,0 +1,8 @@
+Hardware Version: 2.1
+SAM Hardware ID: 2AAE78EF5154305146202020FF121717
+SAM version: 0.9.8-e283e58
+SAM build date: 2021-08-26T16:38:29Z
+ESP MAC address: not synced
+ESP version: not synced
+ESP build date: not synced
+
