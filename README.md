@@ -3,6 +3,8 @@
 ## Introduction
 This repo contains the original data and code used to clean, develop, validate and illustrate the in-home sensor dataset published in: https://zenodo.org/records/20709091
 
+The sensor data was collected in 38 homes in the London Borough of Southwark during July-September 2023, aiming to investigate residential overheating.
+
 ## Acknowledgement
 This project is a co-funded by Bureau of Investigative Journalism (TBIJ) and the [Urban Big Data Centre](https://www.ubdc.ac.uk/) at University of Glasgow.
 
